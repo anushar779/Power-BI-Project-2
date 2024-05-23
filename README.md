@@ -14,6 +14,7 @@ Objective: Help the organization by creating a dashboard to visualize the sales 
 •	Select Data
 
 •	Use Group by from Data Source Table on a Folder to create a folder to segregate the required data for Customer Name and Order ID in order to organize the data thoroughly.
+
 2.	Create a hierarchy called Location for the variable Country. 
 
 3.	Create two parameters: Primary Region and Secondary Region with all regions listed in them. Here, primary and secondary region are the two regions where the sales are being compared.
