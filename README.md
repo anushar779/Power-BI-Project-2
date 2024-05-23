@@ -1,7 +1,5 @@
 # Comparison of Region Based on Sales
 
-### Dashboard Link : 
-
 ## Description:
 The director of a leading organization wants to compare the sales between two regions. He has asked each region operators to record the sales data to compare by region. The upper management wants to visualize the sales data using a dashboard to understand the performance between them and suggest the necessary improvements. 
 
@@ -55,8 +53,7 @@ Formulas used to Create New Calculated Fields:
 
 •	No. of Products in Sale: COUNTD ([Product ID])
  
- # Report Snapshot (Power BI DESKTOP)
-
+ # Dashboard Snapshot (Power BI DESKTOP)
  
 ![Sales Comparison by Region](https://github.com/anushar779/Dashboards/assets/170659132/f2b299e1-4cbb-4809-b29d-23c48faf5699)
 
