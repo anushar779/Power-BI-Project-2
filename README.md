@@ -56,7 +56,8 @@ Formulas used to Create New Calculated Fields:
  
  # Dashboard Snapshot (Power BI DESKTOP)
  
-![Sales Comparison by Region](https://github.com/anushar779/Dashboards/assets/170659132/f2b299e1-4cbb-4809-b29d-23c48faf5699)
+
+![Sales Comparison by Region](https://github.com/anushar779/Power-BI-Project-work-1/assets/170659132/98226806-a871-40d5-9dbc-54e75b5add47)
 
 # Interpretation:
  
